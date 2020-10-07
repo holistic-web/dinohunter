@@ -3,7 +3,7 @@ This is a VR project to hunt dinosaurs built with unity and c#
 
 We are following this guide from Valem:
 https://www.youtube.com/watch?v=gGYtahQjmWQ&t=2s
-- Up to part 6 done
+Up to part so far
 
 We should use these kind of assets:
 
